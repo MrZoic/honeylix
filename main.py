@@ -1,2 +1,2 @@
 Print ("heyworld")
-Print ("hey12")
+Print ("hey")
